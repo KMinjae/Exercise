@@ -43,7 +43,6 @@ public class MainQuiz3 {
 
 		Scanner scanner = new Scanner(System.in);
 		double[] point = new double[20];
-		int switchNum = 0;
 
 		for (int j = 0; j <= 11; j++) {
 			switch (j) {
